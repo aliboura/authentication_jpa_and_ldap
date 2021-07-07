@@ -1,0 +1,13 @@
+ben
+benspassword
+
+
+#ldap.urls=ldap://ldap.forumsys.com:389/
+#ldap.domain=ldap.forumsys.com
+#ldap.base.dn=dc=example,dc=com
+#ldap.username=cn=read-only-admin,dc=example,dc=com
+#ldap.password=password
+#ldap.user.dn.pattern=uid={0}
+#ldap.enabled=true
+
+
